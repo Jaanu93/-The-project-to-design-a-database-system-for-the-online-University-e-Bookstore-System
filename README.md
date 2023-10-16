@@ -1,4 +1,4 @@
-# -The-project-to-design-a-database-system-for-the-online-University-e-Bookstore-System
+# The-project-to-design-a-database-system-for-the-online-University-e-Bookstore-System
 Create database Bookstore
 use Bookstore
 CREATE TABLE Publisher
